@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Praisepaul/color_picker_App/static/css/main.43e289b2.css",
-    "main.js": "/Praisepaul/color_picker_App/static/js/main.3ebf6b9f.js",
-    "index.html": "/Praisepaul/color_picker_App/index.html",
-    "main.43e289b2.css.map": "/Praisepaul/color_picker_App/static/css/main.43e289b2.css.map",
-    "main.3ebf6b9f.js.map": "/Praisepaul/color_picker_App/static/js/main.3ebf6b9f.js.map"
+    "main.css": "/color_picker_App/static/css/main.43e289b2.css",
+    "main.js": "/color_picker_App/static/js/main.3ebf6b9f.js",
+    "index.html": "/color_picker_App/index.html",
+    "main.43e289b2.css.map": "/color_picker_App/static/css/main.43e289b2.css.map",
+    "main.3ebf6b9f.js.map": "/color_picker_App/static/js/main.3ebf6b9f.js.map"
   },
   "entrypoints": [
     "static/css/main.43e289b2.css",
